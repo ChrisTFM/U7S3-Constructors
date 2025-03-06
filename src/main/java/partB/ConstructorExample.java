@@ -4,7 +4,7 @@ public class ConstructorExample {
 
     int x = 2;
 
-    public  ConstructorExample() {
+    public ConstructorExample() {
         x = 5;
     }
 
