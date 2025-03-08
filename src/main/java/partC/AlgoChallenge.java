@@ -13,8 +13,7 @@ public class AlgoChallenge {
      */
 
     public static Integer doubleTheSum(int a, int b) {
-        if (a == b) {return (a + b) * 2;}
-        return a + b;
+       
     }
 
 
