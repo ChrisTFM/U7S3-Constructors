@@ -29,8 +29,9 @@ public class AlgoChallenge {
      */
 
     public static Boolean lookOut10(int a, int b) {
-
-        return null;
+        if (a == 10 || b == 10){return true;}
+        if (a + b == 10){return true;}
+        return false;
     }
 
 }
